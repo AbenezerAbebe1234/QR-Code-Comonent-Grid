@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    min-height: 100vh;       
+    margin: 0;
+    background-color: #72a3ac;
+}
+
+.container {
+    border: none ;
+    border-radius: 15px;
+    width: 340px;
+    background-color: white;
+}
+.qrcodeimg {
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+h3 {
+    font-size: 24px;
+    margin-left: 40px;
+    font-family: "Inter" ;
+    color: #1F314F;
+}
+span {
+    margin-left: 10px;
+}
+p {
+    margin-left: 50px;
+    color: #96A1A8;
+    font-family: "Inter";
+    font-size: 15px;
+    margin-bottom: 50px;
+}
